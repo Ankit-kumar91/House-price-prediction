@@ -1,6 +1,5 @@
 .venv
 Data
-.python-version
 # Hide (Titanic) data
 data/
 
